@@ -5,8 +5,8 @@
 4. Add MySQL connectivity for the upload functionality
 5. Implement an image gallery using Cloud Storage (S3, BlueMix etc.)
 6. File upload and storage webapp
-7. Check if there exists an object oriented way to use the framework
-8. Try multiple alternatives to deploy the webapp (Heroku, Amazon ...)
+7. Try multiple alternatives to deploy the webapp (Heroku, Amazon ...)
+8. Check if there exists an object oriented way to use the framework
 9. Deploy using Apache, Nginx or some other static file server
 10. Scale the service using Redis/Memcache
 11. Make a forum app
