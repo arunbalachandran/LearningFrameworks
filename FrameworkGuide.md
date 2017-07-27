@@ -1,7 +1,7 @@
 # This is a guide that I use to learn frameworks
 Web framework guide
-1. Display a basic 'index.html' page
-2. Learn to display static content -> js + css + images ('static folder')
+1. Display a basic 'index.html' page -> 'Hello World'
+2. Learn to display static content -> js + css + images ('static folder') -> Create a copy of my portfolio page
 3. Add a simple upload form with server side variable validation
 4. Add MySQL connectivity for the upload functionality
 5. Implement an image gallery using Cloud Storage (S3, BlueMix etc.)
@@ -28,4 +28,4 @@ List of Technologies based on Projects Repository:
 - Qt
 2. Python
 3. Java
-4. Javascript 
+4. Javascript
